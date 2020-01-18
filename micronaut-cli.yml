@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: transfer.service
+---
+testFramework: kotlintest
+sourceLanguage: kotlin
